@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "head": "ПОЧЕМУ АЗЕРБАЙДЖАН",
+    "links": [
+      { "key": 1, "href": "#", "title": "lorem" },
+      { "key": 2, "href": "#", "title": "lorem" },
+      { "key": 3, "href": "#", "title": "lorem" },
+      { "key": 4, "href": "#", "title": "lorem" }
+    ]
+  },
+  {
+    "key": 2,
+    "head": "ГОРОДА",
+    "links": [
+      { "key": 5, "href": "#", "title": "lorem" },
+      { "key": 6, "href": "#", "title": "lorem" },
+      { "key": 7, "href": "#", "title": "lorem" },
+      { "key": 8, "href": "#", "title": "lorem" }
+    ]
+  },
+  {
+    "key": 3,
+    "head": "РЕСУРСЫ",
+    "links": [
+      { "key": 9, "href": "#", "title": "lorem" },
+      { "key": 10, "href": "#", "title": "lorem" },
+      { "key": 11, "href": "#", "title": "lorem" },
+      { "key": 12, "href": "#", "title": "lorem" }
+    ]
+  },
+  {
+    "key": 4,
+    "head": "ЕЩЁ",
+    "links": [
+      { "key": 13, "href": "#", "title": "lorem" },
+      { "key": 14, "href": "#", "title": "lorem" },
+      { "key": 15, "href": "#", "title": "lorem" },
+      { "key": 16, "href": "#", "title": "lorem" }
+    ]
+  }
+]

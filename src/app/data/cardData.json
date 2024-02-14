@@ -1,0 +1,38 @@
+[
+  {
+    "key": 1,
+    "title": "Баку",
+    "desc": "The centre piece of Sigmund Freud’s study –and indeed Sigmund Freud’s work – is his famous psychoanalytic couch. Visit and see the couch.",
+    "image": "/baku.jfif"
+  },
+  {
+    "key": 2,
+    "title": "Гянджа",
+    "desc": "Freud received books as gifts from friends and family, and gave them as gifts to loved ones. In the 1880s, while studying medicine, his library steadily began to grow",
+    "image": "/ganja.jfif"
+  },
+  {
+    "key": 3,
+    "title": "Габала",
+    "desc": "Explore the Freud Museum’s past exhibitions",
+    "image": "/qabala.jfif"
+  },
+  {
+    "key": 4,
+    "title": "Гобустан",
+    "desc": "Explore Sigmund Freud's life and work with our Google Arts & Culture exhibition.",
+    "image": "/qob.jfif"
+  },
+  {
+    "key": 5,
+    "title": "Гах",
+    "desc": "Explore the life and work of the pioneering child psychoanalyst.",
+    "image": "/qakh.jfif"
+  },
+  {
+    "key": 6,
+    "title": "Шеки",
+    "desc": "A guide to Sigmund Freud's theory of dreams and his method of dream interpretation.",
+    "image": "/sheki.jfif"
+  }
+]
