@@ -1,7 +1,13 @@
 import { Box, Typography, Grid } from "@mui/material";
 import PropTypes from "prop-types";
 
-export default function SectionBox({ title, color }) {
+export default function SectionBox({
+  title,
+  color,
+  alignment,
+  boldness,
+  font,
+}) {
   return (
     <Grid container>
       <Grid item md={12}>
@@ -18,10 +24,11 @@ export default function SectionBox({ title, color }) {
           <Typography
             component="h1"
             variant="h4"
-            fontWeight="bold"
+            fontWeight={boldness}
             color="white"
-            textAlign="center"
+            textAlign={alignment}
             gutterBottom
+            fontFamily={font}
           >
             {title}
           </Typography>
@@ -32,6 +39,9 @@ export default function SectionBox({ title, color }) {
 }
 
 SectionBox.propTypes = {
-  title: PropTypes.string.isRequired,
-  color: PropTypes.string.isRequired,
+  title: PropTypes.string,
+  color: PropTypes.string,
+  alignment: PropTypes.string,
+  boldness: PropTypes.string,
+  font: PropTypes.string,
 };

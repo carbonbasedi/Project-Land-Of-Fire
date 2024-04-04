@@ -26,7 +26,7 @@ export default function Main() {
               src="https://www.youtube.com/embed/-LZ6x6GFvj0?si=ujLZ4C312uacea7I"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              allowfullscreen
+              allowFullScreen
             ></iframe>
             <Typography
               variant="subtitle2"
@@ -45,6 +45,7 @@ export default function Main() {
       <SectionBox
         color="#E37249"
         title="Пейзажи, от которых захватывает дух, богатая история и вкусная еда — ваша поездка в Азербайджан станет незабываемой."
+        alignment="center"
       />
       <Grid container rowGap={3}>
         {postData &&
@@ -56,6 +57,8 @@ export default function Main() {
         <SectionBox
           color="#3F4C3BCC"
           title="Туристические Достопримечательности"
+          alignment="center"
+          boldness="bold"
         />
       </Grid>
       <Grid

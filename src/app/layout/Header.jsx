@@ -1,4 +1,3 @@
-import { MapOutlined } from "@mui/icons-material";
 import MenuIcon from "@mui/icons-material/Menu";
 import {
   Typography,
@@ -11,16 +10,17 @@ import {
   Drawer,
   Divider,
   CssBaseline,
-  Button,
   Box,
+  Button,
   AppBar,
 } from "@mui/material";
 import PropTypes from "prop-types";
 import * as React from "react";
 import data from "../data/data.json";
+import { MapOutlined } from "@mui/icons-material";
+import { Link } from "react-router-dom";
 
 const drawerWidth = 240;
-const navItems = data.map((x) => x.head);
 
 export default function DrawerAppBar(props) {
   const { window } = props;
@@ -37,10 +37,10 @@ export default function DrawerAppBar(props) {
       </Typography>
       <Divider />
       <List>
-        {navItems.map((item) => (
-          <ListItem key={item} disablePadding>
+        {data.map((item) => (
+          <ListItem key={item.key} disablePadding>
             <ListItemButton sx={{ textAlign: "center" }}>
-              <ListItemText primary={item} />
+              <ListItemText primary={item.head} />
             </ListItemButton>
           </ListItem>
         ))}
@@ -67,23 +67,27 @@ export default function DrawerAppBar(props) {
           </IconButton>
           <Typography
             variant="h2"
-            component="h1"
+            component={Link}
+            to="/"
             fontWeight="700"
             sx={{ flexGrow: 1 }}
           >
             LAND OF FIRE
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
-            {navItems.map((item) => (
-              <Button
+            {data.map((item) => (
+              <Box
                 variant="h2"
-                component="h1"
-                key={item}
+                component={Link}
+                to={item.path}
+                key={item.key}
                 sx={{ color: "#fff", fontSize: "15px" }}
                 fontWeight="700"
               >
-                {item}
-              </Button>
+                <Button color="inherit">
+                  <Typography>{item.head}</Typography>
+                </Button>
+              </Box>
             ))}
             <Button variant="h2" component="h1">
               <MapOutlined />
