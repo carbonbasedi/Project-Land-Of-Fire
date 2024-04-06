@@ -63,11 +63,16 @@ export default function BasicTabs(props) {
         {data &&
           data[value].texts.map((x) => (
             <Stack
-              sx={{ borderLeftWidth: 4, borderColor: "#3F4C3B", marginY: 2 }}
+              sx={{
+                borderLeftWidth: 4,
+                borderColor: "#3F4C3B",
+                marginY: 2,
+              }}
               spacing={5}
               key={x.key}
               value={value}
               index={x.key}
+              boxShadow="0"
             >
               <Item>{x.text}</Item>
             </Stack>

@@ -7,6 +7,7 @@ export default function SectionBox({
   alignment,
   boldness,
   font,
+  padding,
 }) {
   return (
     <Grid container>
@@ -14,7 +15,7 @@ export default function SectionBox({
         <Box
           sx={{
             position: "relative",
-            p: 7,
+            p: padding ?? 7,
             mb: 2,
             mt: 2,
             background: color,
@@ -44,4 +45,5 @@ SectionBox.propTypes = {
   alignment: PropTypes.string,
   boldness: PropTypes.string,
   font: PropTypes.string,
+  padding: PropTypes.number,
 };

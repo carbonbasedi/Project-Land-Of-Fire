@@ -13,6 +13,7 @@ export default function About() {
             title="История Азербайджана"
             boldness="bold"
             font="Georgia"
+            padding={3}
           />
         </Grid>
         <Grid item md={12}>

@@ -76,7 +76,7 @@ export default function Main() {
       </Grid>
       <Box textAlign="center" sx={{ m: 10 }}>
         <Button
-          variant="outlined"
+          variant="contained"
           sx={{
             borderRadius: 0,
             py: 3,
@@ -84,6 +84,7 @@ export default function Main() {
             fontSize: "32px",
             color: "black",
             borderColor: "black",
+            backgroundColor:"white"
           }}
         >
           ЕЩЁ

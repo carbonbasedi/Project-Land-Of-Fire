@@ -2,6 +2,7 @@
   {
     "key": 1,
     "label": "до начала  ХХ.В",
+    "header":"С ДРЕВНЕЙШИХ ВРЕМЕН ДО НАЧАЛА ХХ ВЕКА",
     "texts": [
       {
         "key": 1,
@@ -68,6 +69,7 @@
   {
     "key": 2,
     "label": "1918-1920",
+    "header":"Two",
     "texts": [
       {
         "key": 1,
@@ -90,6 +92,7 @@
   {
     "key": 3,
     "label": "1920-1940",
+    "header":"Three",
     "texts": [
       {
         "key": 1,
@@ -104,6 +107,7 @@
   {
     "key": 4,
     "label": "1940-1991",
+    "header":"Four",
     "texts": [
       {
         "key": 1,
@@ -118,6 +122,7 @@
   {
     "key": 5,
     "label": "1991-Today",
+    "header":"Five",
     "texts": [
       {
         "key": 1,

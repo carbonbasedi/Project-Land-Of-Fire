@@ -13,7 +13,7 @@
   {
     "key": 2,
     "head": "ГОРОДА",
-    "path": "#",
+    "path": "info",
     "links": [
       { "key": 5, "href": "#", "title": "lorem" },
       { "key": 6, "href": "#", "title": "lorem" },
