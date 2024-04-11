@@ -1,7 +1,7 @@
 import { Outlet, useLocation } from "react-router-dom";
 import { Box, CssBaseline } from "@mui/material";
 import Header from "./Header";
-import Main from "./Main/Main";
+import Main from "../pages/Main/Main";
 import Footer from "./Footer";
 
 export default function App() {

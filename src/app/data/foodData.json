@@ -1,0 +1,81 @@
+[
+  {
+    "key": 1,
+    "title": "Кулинарное Искусство",
+    "desc": "Знакомство с национальной кухней – это один из лучших способов познания новой страны, и для азербайджанской кухни этот тезис актуален на все 100%. Вкусные, сытные и многообразные азербайджанские блюда будут впечатлять и удивлять вас не меньше, чем многочисленные природные и культурные достопримечательности Азербайджана. Будьте готовы плотно завтракать, обедать и ужинать, ведь местная кухня отличается особой калорийностью! Блюда азербайджанской кухни с разнообразными видами мяса вы будете встречать на каждом шагу: пловы, супы, пироги, кушанья из птицы и рыбы можно попробовать в любом ресторане или в гостях у местной семьи. Овощи, фрукты и сухофрукты также активно используются в качестве основных или дополнительных ингредиентов. Многие азербайджанские блюда деликатно приправляются ароматными специями в различных сочетаниях и пропорциях, что делает каждое из них уникальным и неповторимым.Самобытная кухня азербайджанского народа обладает уникальным национальным колоритом, который проявляется в особенностях кулинарных техник, а также традициях подачи и употребления блюд. Азербайджанское застолье откроет перед вами многоцветную палитру аппетитных яств, каждое из которых достойно отдельного описания. Мы собрали для вас подборку уникальных блюд азербайджанской кухни, которые стоит попробовать при посещении страны. ",
+    "items": [
+      {
+        "key": 1,
+        "title": "Плов",
+        "image": "/plov.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 2,
+        "title": "Долма",
+        "image": "/dolma.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 3,
+        "title": "Джиз быз",
+        "image": "/jizbiz.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 4,
+        "title": "Довга",
+        "image": "/dovga.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 5,
+        "title": "Левенги",
+        "image": "/lavangi.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 6,
+        "title": "Кутаб",
+        "image": "/qutab.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 7,
+        "title": "Буглама",
+        "image": "/buglama.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 8,
+        "title": "Пити",
+        "image": "/piti.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 9,
+        "title": "Долма",
+        "image": "/stoplight.png",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 10,
+        "title": "Садж",
+        "image": "/saj.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 11,
+        "title": "Пахлава",
+        "image": "/paxlava.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      },
+      {
+        "key": 12,
+        "title": "Кутаб",
+        "image": "/qutab2.jpeg",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+      }
+    ]
+  }
+]

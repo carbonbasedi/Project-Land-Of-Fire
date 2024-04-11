@@ -1,0 +1,92 @@
+[
+  {
+    "key": 1,
+    "title": "Баку",
+    "vector": "Vector_57"
+  },
+  {
+    "key": 2,
+    "title": "Габала",
+    "vector": "Vector_69"
+  },
+  {
+    "key": 3,
+    "title": "Гах",
+    "vector": "Vector_66"
+  },
+  {
+    "key": 4,
+    "title": "Гянджа",
+    "vector": "Vector_41"
+  },
+  {
+    "key": 5,
+    "title": "Гёйгёль",
+    "vector": "Vector_42"
+  },
+  {
+    "key": 6,
+    "title": "Губа",
+    "vector": "Vector_12"
+  },
+  {
+    "key": 7,
+    "title": "Гусар",
+    "vector": "Vector_62"
+  },
+  {
+    "key": 8,
+    "title": "Исмаиллы",
+    "vector": "Vector_11"
+  },
+  {
+    "key": 9,
+    "title": "Карабах",
+    "vector": "Vector_15"
+  },
+  {
+    "key": 10,
+    "title": "Хызы",
+    "vector": "Vector_19"
+  },
+  {
+    "key": 11,
+    "title": "Лянкяран",
+    "vector": "Vector_60"
+  },
+  {
+    "key": 12,
+    "title": "Лерик",
+    "vector": "Vector_59"
+  },
+  {
+    "key": 13,
+    "title": "Нафталан",
+    "vector": "Vector_37"
+  },
+  {
+    "key": 14,
+    "title": "Нахчыван",
+    "vector": "Vector_7"
+  },
+  {
+    "key": 15,
+    "title": "Шамахы",
+    "vector": "Vector_13"
+  },
+  {
+    "key": 16,
+    "title": "Шеки",
+    "vector": "Vector_81"
+  },
+  {
+    "key": 17,
+    "title": "Шуша",
+    "vector": "Vector_40"
+  },
+  {
+    "key": 18,
+    "title": "Загатала",
+    "vector": "Vector_67"
+  }
+]

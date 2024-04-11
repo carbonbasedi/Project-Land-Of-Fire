@@ -1,0 +1,28 @@
+[
+  {
+    "key": 1,
+    "title": "INTRODUCING FREUD [Full Course]",
+    "desc": "In this complete series of INTRODUCING FREUD with Keith Barrett, you willlearn in detail about Freud’s seminal theories, over 5 sessions. The courses are designed to be accessible to beginners – but are also for those alreadyfamiliar with Freud’s work who wish to acquaint themselves with the resultsof the latest research and scholarship, and up-date themselves on the recent debates addressing the intellectual issues and controversies surrounding it.",
+    "image": "/musicMain.jpeg",
+    "musicians": [
+      {
+        "key": 1,
+        "name": "Рашид Бехбутов",
+        "text": "Советский азербайджанский эстрадный и оперный певец (лирический тенор) и актёр",
+        "image": "/rashid.jpeg"
+      },
+      {
+        "key": 2,
+        "title": "Узеир Гаджибеков",
+        "text": "Советский азербайджанский эстрадный и оперный певец (лирический тенор) и актёр",
+        "image": "/uzeir.jpeg"
+      },
+      {
+        "key": 3,
+        "title": "Шавкет Алекберова",
+        "text": "Советский азербайджанский эстрадный и оперный певец (лирический тенор) и актёр",
+        "image": "/shovkat.jpeg"
+      }
+    ]
+  }
+]

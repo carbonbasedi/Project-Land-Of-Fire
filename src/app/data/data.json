@@ -4,32 +4,44 @@
     "head": "ПОЧЕМУ АЗЕРБАЙДЖАН",
     "path": "#",
     "links": [
-      { "key": 1, "href": "#", "title": "lorem" },
-      { "key": 2, "href": "#", "title": "lorem" },
-      { "key": 3, "href": "#", "title": "lorem" },
-      { "key": 4, "href": "#", "title": "lorem" }
+      { "key": 1, "href": "about", "title": "до начала  ХХ.В" },
+      { "key": 2, "href": "about", "title": "1918-1920" },
+      { "key": 3, "href": "about", "title": "1991-2020" },
+      { "key": 4, "href": "about", "title": "1918-1920" },
+      { "key": 5, "href": "art", "title": "Искусство" },
+      { "key": 6, "href": "music", "title": "Музыка" },
+      { "key": 7, "href": "lang", "title": "Язык и Алфавит" },
+      { "key": 8, "href": "food", "title": "Кулинарное Искусство" }
     ]
   },
   {
     "key": 2,
     "head": "ГОРОДА",
-    "path": "info",
+    "path": "#",
     "links": [
-      { "key": 5, "href": "#", "title": "lorem" },
-      { "key": 6, "href": "#", "title": "lorem" },
-      { "key": 7, "href": "#", "title": "lorem" },
-      { "key": 8, "href": "#", "title": "lorem" }
+      {
+        "key": 1,
+        "title": "Баку",
+        "vector": "Vector_57",
+        "href": "info"
+      },
+      {
+        "key": 2,
+        "title": "Габала",
+        "vector": "Vector_69",
+        "href": "#"
+      }
     ]
   },
   {
     "key": 3,
     "head": "РЕСУРСЫ",
-    "path": "#",
+    "path": "info",
     "links": [
-      { "key": 9, "href": "#", "title": "lorem" },
-      { "key": 10, "href": "#", "title": "lorem" },
-      { "key": 11, "href": "#", "title": "lorem" },
-      { "key": 12, "href": "#", "title": "lorem" }
+      { "key": 9, "href": "#", "title": "hty" },
+      { "key": 10, "href": "#", "title": "dfglorem" },
+      { "key": 11, "href": "#", "title": "loxvcvrem" },
+      { "key": 12, "href": "#", "title": "sadw" }
     ]
   },
   {
