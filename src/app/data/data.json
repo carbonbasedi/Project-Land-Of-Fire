@@ -36,23 +36,13 @@
   {
     "key": 3,
     "head": "РЕСУРСЫ",
-    "path": "info",
-    "links": [
-      { "key": 9, "href": "#", "title": "hty" },
-      { "key": 10, "href": "#", "title": "dfglorem" },
-      { "key": 11, "href": "#", "title": "loxvcvrem" },
-      { "key": 12, "href": "#", "title": "sadw" }
-    ]
+    "path": "#",
+    "links": []
   },
   {
     "key": 4,
     "head": "ЕЩЁ",
-    "path": "about",
-    "links": [
-      { "key": 13, "href": "#", "title": "lorem" },
-      { "key": 14, "href": "#", "title": "lorem" },
-      { "key": 15, "href": "#", "title": "lorem" },
-      { "key": 16, "href": "#", "title": "lorem" }
-    ]
+    "path": "#",
+    "links": []
   }
 ]

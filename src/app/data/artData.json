@@ -1,0 +1,22 @@
+[
+  {
+    "key": 1,
+    "title": "Азербайджанский музей ковров",
+    "desc": "In this complete series of INTRODUCING FREUD with Keith Barrett, you will learn in detail about Freud’s seminal theories, over 5 sessions. The courses are designed to be accessible to beginners – but are also for those already familiar with Freud’s work who wish to acquaint themselves with the results of the latest research and scholarship, and up-date themselves on the recent debates addressing the intellectual issues and controversies surrounding it.",
+    "image": "/artMain.jpeg",
+    "article": [
+      {
+        "key": 1,
+        "name": "Sigmund Freud’s Study",
+        "text": "The study also contains his remarkable collection of antiquities. Almost 2,000 items fill cabinets and are arranged on every surface. There are rows of ancient figures on the desk where Freud wrote until the early hours of the morning.The study also contains his remarkable collection of antiquities. Almost 2,000 items fill cabinets and are arranged on every surface. There are rows of ancient figures on the desk where Freud wrote until the early hours of the morning.",
+        "image": "/freud.jpeg"
+      },
+      {
+        "key": 2,
+        "name": "Sigmund Freud’s Study",
+        "text": "The study also contains his remarkable collection of antiquities. Almost 2,000 items fill cabinets and are arranged on every surface. There are rows of ancient figures on the desk where Freud wrote until the early hours of the morning.The study also contains his remarkable collection of antiquities. Almost 2,000 items fill cabinets and are arranged on every surface. There are rows of ancient figures on the desk where Freud wrote until the early hours of the morning.",
+        "image": "/freud.jpeg"
+      }
+    ]
+  }
+]

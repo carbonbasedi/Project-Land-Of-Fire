@@ -24,7 +24,7 @@ export default function SectionBox({
         >
           <Typography
             component="h1"
-            variant="h4"
+            variant="h3"
             fontWeight={boldness}
             color="white"
             textAlign={alignment}
