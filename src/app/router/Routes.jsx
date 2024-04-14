@@ -1,13 +1,13 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../layout/App";
 import About from "../pages/About/About";
-import Info from "../pages/Info/Info";
 import Cities from "../layout/menu/Cities";
 import Map from "../pages/Map/Map";
 import Art from "../pages/Art/Art";
 import Music from "../pages/Music/Music";
 import Food from "../pages/Food/Food";
 import Lang from "../pages/Language/Lang";
+import DynamicInfo from "../pages/Info/DynamicInfo";
 
 export const router = createBrowserRouter([
   {
@@ -19,8 +19,8 @@ export const router = createBrowserRouter([
         element: <About />,
       },
       {
-        path: "info",
-        element: <Info />,
+        path: "info/:id",
+        element: <DynamicInfo />,
       },
       {
         path: "cities",

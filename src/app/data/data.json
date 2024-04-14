@@ -23,13 +23,110 @@
         "key": 1,
         "title": "Баку",
         "vector": "Vector_57",
-        "href": "info"
+        "href": "info/1"
       },
       {
         "key": 2,
         "title": "Габала",
         "vector": "Vector_69",
-        "href": "#"
+        "href": "info/2"
+      },
+      {
+        "key": 3,
+        "title": "Гах",
+        "vector": "Vector_66",
+        "href": "info/3"
+
+      },
+      {
+        "key": 4,
+        "title": "Гянджа",
+        "vector": "Vector_41",
+        "href": "info/4"
+      },
+      {
+        "key": 5,
+        "title": "Гёйгёль",
+        "vector": "Vector_42",
+        "href": "info/5"
+      },
+      {
+        "key": 6,
+        "title": "Губа",
+        "vector": "Vector_12",
+        "href": "info/6"
+      },
+      {
+        "key": 7,
+        "title": "Гусар",
+        "vector": "Vector_62",
+        "href": "info/7"
+      },
+      {
+        "key": 8,
+        "title": "Исмаиллы",
+        "vector": "Vector_11",
+        "href": "info/8"
+      },
+      {
+        "key": 9,
+        "title": "Карабах",
+        "vector": "Vector_15",
+        "href": "info/9"
+      },
+      {
+        "key": 10,
+        "title": "Хызы",
+        "vector": "Vector_19",
+        "href": "info/10"
+      },
+      {
+        "key": 11,
+        "title": "Лянкяран",
+        "vector": "Vector_60",
+        "href": "info/11"
+      },
+      {
+        "key": 12,
+        "title": "Лерик",
+        "vector": "Vector_59",
+        "href": "info/12"
+      },
+      {
+        "key": 13,
+        "title": "Нафталан",
+        "vector": "Vector_37",
+        "href": "info/13"
+      },
+      {
+        "key": 14,
+        "title": "Нахчыван",
+        "vector": "Vector_7",
+        "href": "info/14"
+      },
+      {
+        "key": 15,
+        "title": "Шамахы",
+        "vector": "Vector_13",
+        "href": "info/15"
+      },
+      {
+        "key": 16,
+        "title": "Шеки",
+        "vector": "Vector_81",
+        "href": "info/16"
+      },
+      {
+        "key": 17,
+        "title": "Шуша",
+        "vector": "Vector_40",
+        "href": "info/17"
+      },
+      {
+        "key": 18,
+        "title": "Загатала",
+        "vector": "Vector_67",
+        "href": "info/18"
       }
     ]
   },

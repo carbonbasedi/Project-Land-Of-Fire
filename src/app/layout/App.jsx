@@ -6,8 +6,15 @@ import Footer from "./Footer";
 
 export default function App() {
   const location = useLocation();
-  const backgroundImage =
-    location.pathname === "/info" ? "url(/baku_image.jpg)" : "url(/buta.svg)";
+
+  let backgroundImage;
+  switch (location.pathname) {
+    case "/info/1":
+      backgroundImage = "url(/baku_image.jpg)";
+      break;
+    default:
+      backgroundImage = "url(/buta.svg)";
+  }
 
   return (
     <Box
@@ -22,6 +29,7 @@ export default function App() {
         height: "full",
         backgroundColor: "rgba(0,0,0,.3)",
         backgroundBlendMode: "multiply",
+        gap: 5,
       }}
     >
       <CssBaseline />

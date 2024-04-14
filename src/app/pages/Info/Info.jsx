@@ -1,8 +1,9 @@
 import { Box, Container, Grid, Paper, Typography } from "@mui/material";
 import InfoCard from "../../components/InfoCard";
-import data from "../../data/cityData.json";
+import PropTypes from "prop-types";
 
-export default function Info() {
+export default function Info(props) {
+  const { data } = props;
   return (
     <Container maxWidth="lg">
       <Grid container>
@@ -25,10 +26,10 @@ export default function Info() {
               fontFamily="Georgia"
               fontWeight="bold"
             >
-              {data[0].title}
+              {data.title}
             </Typography>
             <Typography variant="subtitle1" paragraph color="white">
-              {data[0].desc}
+              {data.desc}
             </Typography>
           </Box>
         </Grid>
@@ -46,7 +47,7 @@ export default function Info() {
               gap: 3,
             }}
           >
-            {data[0].topics.map((x) => (
+            {data.topics.map((x) => (
               <Box
                 key={x.key}
                 justifyContent="center"
@@ -101,7 +102,7 @@ export default function Info() {
               columns={{ xs: 4, sm: 8, md: 12 }}
               maxWidth="md"
             >
-              {data[0].locations.map((loc) => (
+              {data.locations.map((loc) => (
                 <Grid item xs={2} sm={4} md={4} key={loc.key}>
                   <InfoCard loc={loc} />
                 </Grid>
@@ -113,3 +114,7 @@ export default function Info() {
     </Container>
   );
 }
+
+Info.propTypes = {
+  data: PropTypes.object.isRequired,
+};
