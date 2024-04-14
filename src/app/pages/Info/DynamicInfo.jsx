@@ -1,17 +1,17 @@
 import { useState, useEffect } from "react";
 import Info from "./Info";
+import { useParams } from "react-router-dom";
 import data from "../../data/cityData.json";
 
 export default function DynamicInfo() {
   const [infoData, setInfoData] = useState(null);
+  const { id } = useParams();
 
   useEffect(() => {
     const routeParams = window.location.pathname.split("/");
-    console.log(routeParams);
     const routeId = routeParams[routeParams.length - 1];
-    console.log(routeId);
     fetchInfoData(routeId);
-  }, []);
+  }, [id]);
 
   const fetchInfoData = async (id) => {
     try {
